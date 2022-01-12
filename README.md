@@ -26,3 +26,5 @@
     <a href="https://www.youtube.com/channel/UCWMt2NIMJss1qigoszejE_Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/</a>
       <img align="right" alt="Kratos" src="https://cdn.discordapp.com/attachments/785035077708939284/930822636626395176/d46lvis-407d8722-3c17-4d02-aa34-d6fcaa559ec3.gif">
  </div>
+
+![Snake animation](https://github.com/rafaballerini/Bruno-ZRDev/blob/output/github-contribution-grid-snake.svg)
