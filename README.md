@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bruno Muryllo ( Bzr )!
+## Olá! Eu sou o Bruno Muryllo ( Bzr )! <img align="right" alt="Kratos" src="https://cdn.discordapp.com/attachments/785035077708939284/930822636626395176/d46lvis-407d8722-3c17-4d02-aa34-d6fcaa559ec3.gif">
 
 - 🚀・CEO and Developer from Space Store.
 - 🔮・Studying TypeScript.
@@ -19,7 +19,7 @@
    <img align="center" alt="Bzr-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
   </div>
   
-  ## <img align="right" alt="Kratos" src="https://cdn.discordapp.com/attachments/785035077708939284/930822636626395176/d46lvis-407d8722-3c17-4d02-aa34-d6fcaa559ec3.gif">
+  ##
   
  <div>
   <a href="https://discord.gg/8EMJK3cyZE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"   target="_blank"/</a>
